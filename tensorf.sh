@@ -7,7 +7,7 @@ sudo pip3 install keras_applications==1.0.8 --no-deps
 sudo pip3 install keras_preprocessing==1.1.0 --no-deps
 sudo pip3 install numpy==1.20.3
 pip3 uninstall h5py==3.1.0-y
-sudo apt install python3-h5py-y
+sudo apt install python3-h5py -y
 sudo pip3 install pybind11
 pip3 install -U --user six wheel mock
 sudo wget "https://raw.githubusercontent.com/PINTO0309/Tensorflow-bin/main/tensorflow-2.5.0-cp37-none-linux_armv7l_numpy1195_download.sh"
