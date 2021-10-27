@@ -6,7 +6,7 @@ sudo pip3 install pip --upgrade
 sudo pip3 install keras_applications==1.0.8 --no-deps
 sudo pip3 install keras_preprocessing==1.1.0 --no-deps
 sudo pip3 install numpy==1.20.3
-pip3 uninstall h5py==3.1.0-y
+pip3 uninstall h5py==3.1.0 -y
 sudo apt install python3-h5py -y
 sudo pip3 install pybind11
 pip3 install -U --user six wheel mock
